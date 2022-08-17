@@ -1,0 +1,11 @@
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\bin\Debug\16- Média aluno.exe.config
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\bin\Debug\16- Média aluno.exe
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\bin\Debug\16- Média aluno.pdb
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\_16__Média_aluno.Form1.resources
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\_16__Média_aluno.Properties.Resources.resources
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.csproj.GenerateResource.cache
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.exe
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.pdb
+C:\Users\mateus.pbrito\source\repos\16- Média aluno\16- Média aluno\obj\Debug\16- Média aluno.csproj.AssemblyReference.cache
