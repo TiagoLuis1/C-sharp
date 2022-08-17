@@ -1,0 +1,10 @@
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\bin\Debug\5- Média aluno.exe.config
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\bin\Debug\5- Média aluno.exe
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\bin\Debug\5- Média aluno.pdb
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\5- Média aluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\_5__Média_aluno.Form1.resources
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\_5__Média_aluno.Properties.Resources.resources
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\5- Média aluno.csproj.GenerateResource.cache
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\5- Média aluno.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\5- Média aluno.exe
+C:\Users\mateus.pbrito\source\repos\5- Média aluno\5- Média aluno\obj\Debug\5- Média aluno.pdb
