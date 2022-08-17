@@ -1,0 +1,10 @@
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\bin\Debug\15- Entre 100 e 200.exe.config
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\bin\Debug\15- Entre 100 e 200.exe
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\bin\Debug\15- Entre 100 e 200.pdb
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\15- Entre 100 e 200.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\_15__Entre_100_e_200.Form1.resources
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\_15__Entre_100_e_200.Properties.Resources.resources
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\15- Entre 100 e 200.csproj.GenerateResource.cache
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\15- Entre 100 e 200.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\15- Entre 100 e 200.exe
+C:\Users\mateus.pbrito\source\repos\15- Entre 100 e 200\15- Entre 100 e 200\obj\Debug\15- Entre 100 e 200.pdb
