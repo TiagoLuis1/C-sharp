@@ -1,2 +1,2 @@
 # C-sharp
-Exercício C-sharp.
+Exercício C-SHARP.
